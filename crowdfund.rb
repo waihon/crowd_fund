@@ -1,5 +1,5 @@
 project1 = "Project ABC"
-funding1 = "1000"
+funding1 = 1000
 project2 = "Project LMN"
 project3 = "Project XYZ"
 
